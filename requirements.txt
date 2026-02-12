@@ -1,0 +1,11 @@
+pandas 
+numpy 
+scikit-learn 
+torch 
+faiss-cpu 
+fastapi 
+uvicorn 
+pyarrow 
+tqdm 
+matplotlib 
+seaborn
